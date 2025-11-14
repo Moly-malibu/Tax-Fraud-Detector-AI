@@ -47,7 +47,7 @@ st.markdown(
 <div class="info-box">
 <strong>Data:</strong> 5,000 synthetic tax returns based on IRS 2021 SOI distributions.<br>
 Fraud labels follow real audit triggers (e.g., deduction ratio >50%).<br>
-Source: <a href="https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-return" target="_blank">IRS.gov</a>
+Source: <a href="https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-data" target="_blank">IRS.gov</a>
 </div>
 """,
     unsafe_allow_html=True,
