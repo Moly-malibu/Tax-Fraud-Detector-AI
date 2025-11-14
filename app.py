@@ -45,9 +45,10 @@ st.markdown(
 st.markdown(
     """
 <div class="info-box">
-<strong>Data:</strong> 5,000 synthetic tax returns based on IRS 2021 SOI distributions.<br>
-Fraud labels follow real audit triggers (e.g., deduction ratio >50%).<br>
-Source: <a href="https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-data" target="_blank">IRS.gov</a>
+<strong>Built by Liliana Bustamante</strong> | CPA Candidate | 28 AI Certs | Lawyer<br>
+        Data: Simulated from IRS 2021 SOI | <a href="https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-data" target="_blank">IRS.gov SOI Stats</a><br>
+        <a href="https://github.com/your-username/tax-fraud-detector" target="_blank">GitHub</a> •
+        <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
 </div>
 """,
     unsafe_allow_html=True,
@@ -197,7 +198,7 @@ st.markdown(
     """
     <div class="footer">
         <strong>Built by Liliana Bustamante</strong> | CPA Candidate | Data Science and Machine Learning AI Certs | J.D. Lawyer<br>
-        Data: Simulated from IRS 2021 SOI | <a href="https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-return" target="_blank">IRS.gov</a><br>
+        Data: Simulated from IRS 2021 SOI | <a href="https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-tables-by-size-of-adjusted-gross-income" target="_blank">IRS.gov</a><br>
         <a href="https://github.com/Moly-malibu/Tax-Fraud-Detector-AI.git" target="_blank">GitHub</a> •
         <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
     </div>
