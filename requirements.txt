@@ -3,4 +3,7 @@ pandas
 numpy
 scikit-learn
 plotly
-openpyxl
+shap
+joblib
+matplotlib
+fpdf2
