@@ -20,7 +20,7 @@ st.set_page_config(
     menu_items={'About': "FraudGuard AI © 2025 - The most advanced forensic audit engine"}
 )
 
-# ====================== COLORS & STYLES (mejor contraste) ======================
+# ====================== COLORS & STYLES ======================
 PRIMARY = "#00E7FF"      # Electric Cyan
 ACCENT = "#00FF88"
 WARNING = "#FFD93D"
@@ -45,7 +45,7 @@ st.markdown(f"""
 </style>
 """, unsafe_allow_html=True)
 
-# ====================== SIDEBAR (English) ======================
+# ====================== SIDEBAR  ======================
 with st.sidebar:
     st.markdown(f"<h1 style='text-align:center; color:{PRIMARY}'>🔒 FraudGuard AI</h1>", unsafe_allow_html=True)
     st.markdown("<p style='text-align:center; font-size:1.2rem;'>Forensic Audit Engine v2.5</p>", unsafe_allow_html=True)
